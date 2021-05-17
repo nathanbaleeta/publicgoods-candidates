@@ -1,0 +1,35 @@
+{
+  "name": "sdsd",
+  "aliases": [
+    "sdsd"
+  ],
+  "description": "sdsd",
+  "website": "https://www.mozilla.org/en-US/firefox/",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://www.mozilla.org/en-US/firefox/"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 2,
+      "evidenceText": "dfdf"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "data"
+  ],
+  "repositoryURL": "",
+  "organizations": [
+    {
+      "name": "dfd",
+      "website": "https://www.mozilla.org/en-US/firefox/",
+      "org_type": "maintainer",
+      "contact_name": "fdfd",
+      "contact_email": "asda@gmail.com"
+    }
+  ],
+  "stage": "nominee"
+}
