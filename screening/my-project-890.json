@@ -1,0 +1,54 @@
+{
+  "name": "My Project 890",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/lacabra/submission-digitalpublicgoods/pull/20"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/lacabra/submission-digitalpublicgoods/pull/20"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "No"
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "HTML"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/lacabra/submission-digitalpublicgoods/pull/20"
+    ],
+    "implementBestPractices": "No"
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "No"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Afghanistan"
+    ],
+    "deploymentCountries": [
+      "Australia"
+    ]
+  }
+}
