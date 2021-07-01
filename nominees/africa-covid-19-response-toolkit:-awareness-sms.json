@@ -1,0 +1,33 @@
+{
+  "name": "Africa COVID-19 Response Toolkit: Awareness SMS",
+  "aliases": [
+    "sdsdssds"
+  ],
+  "description": "sdsd",
+  "website": "http://localhost:3000/form",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "http://localhost:3000/form"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 2,
+      "evidenceText": "sdsds"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "data"
+  ],
+  "repositoryURL": "",
+  "organizations": [
+    {
+      "name": "sdsd",
+      "website": "http://localhost:3000/form",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "DPG"
+}
