@@ -1,27 +1,31 @@
 {
   "name": "5Calls iOS",
-  "description": "iOS app for 5calls.org",
-  "website": "https://5calls.org/",
+  "aliases": [
+    "sdsdssds"
+  ],
+  "description": "sdsd",
+  "website": "http://localhost:3000/form",
   "license": [
     {
-      "spdx": "MIT",
-      "licenseURL": "https://github.com/5calls/ios/blob/master/LICENSE"
+      "spdx": "Apache-1.1",
+      "licenseURL": "http://localhost:3000/form"
     }
   ],
   "SDGs": [
     {
-      "SDGNumber": 16
+      "SDGNumber": 2,
+      "evidenceText": "sdsds"
     }
   ],
   "sectors": [],
   "type": [
-    "software"
+    "data"
   ],
-  "repositoryURL": "https://github.com/5calls/ios",
+  "repositoryURL": "",
   "organizations": [
     {
-      "name": "5Calls",
-      "website": "https://5calls.org/",
+      "name": "sdsd",
+      "website": "http://localhost:3000/form",
       "org_type": "owner"
     }
   ],
